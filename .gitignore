@@ -5,4 +5,5 @@ crash.log
 terraform.tfvars
 *.tfvars
 *.tfvars.json
-
+.gitignore
+.terraform.lock.hcl
